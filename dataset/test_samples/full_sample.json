@@ -1,0 +1,3311 @@
+{
+  "data": {
+    "text": "Приложение №1 к Договору от «__» ________ 2024г. ТЕХНИЧЕСКОЕ ЗАДАНИЕ 1. Общая информация об объекте закупки 1.1. Объект закупки: Поставка товаров для робототехники и 3D моделирования на 2025-2026 учебный год, согласно техническим требованиям, указанным в Приложении №1 настоящего Технического задания (далее - Товар). 1.2. Место поставки товара: 143082, Московская область, город Одинцово, деревня Раздоры, улица Утренняя, дом 1; 1.3. Количество товара: согласно Приложению 1; 1.4. Срок поставки товара: не позднее 30.07.2025. 1.5. Приложения к техническому заданию: 1.5.1. Приложение №1 - «Перечень объектов закупки». 2. Стандарт товаров 2.1. Товар, поставляемый Поставщиком Заказчику, должен соответствовать: требованиям действующих государственных и международных стандартов и других нормативных актов Российской Федерации, требованиям безопасности, функциональным и качественным характеристикам для данной группы товаров. функциональным, техническим, качественным и эксплуатационным характеристикам, указанным в Приложении №1 «Перечень объектов закупки». 2.2. Для взаимодействия с Заказчиком Поставщик обязан в течение 1 (одного) рабочего дня с даты заключения Договора назначить ответственное контактное лицо, выделить адрес электронной почты для приема данных (запросов, заявок) в электронной форме, номер телефона и уведомить об этом Заказчика. Об изменении контактной информации ответственного лица Поставщик обязан уведомить в течение 1 (одного) рабочего дня со дня возникновения таких изменений. 2.3. Письма, запросы, заявки направляются Заказчиком в одном экземпляре любым способом, обеспечивающим получение информации Поставщиком (по электронной почте в соответствии с контактными данными Поставщика). 2.4. Поставка товара Заказчику должна быть произведена в сроки, установленные в настоящем Техническом задании, по перечню, адресам, ассортименте и с характеристиками согласно Приложению №1 «Перечень объектов закупки» к настоящему Техническому заданию, в рабочие часы Заказчика пн-пт с 09:00 до 18:00 по московскому времени. 2.5. Поставщик поставляет Товар в соответствии с пропускным и внутриобъектовым режимами, установленными по адресу поставки Товара в порядке, согласованным с Заказчиком не позднее чем за 3 (три) рабочих дня до даты фактической доставки Товара. 2.6. Поставщиком оформляется Акт приемки-передачи Товара в соответствии с условиями Договора. К Акту приемки-передачи Товара должен быть приложен комплект отчетных документов на русском языке в составе: обязательные для данной группы товаров сертификаты соответствия (декларации о соответствии) Товара; оригиналы документов, относящиеся к Товару (паспорт, инструкция по эксплуатации и т.п.); оригиналы документов, подтверждающие гарантийные обязательства Поставщика и производителя Товара; иные документы, подтверждающие качество Товара, оформленные в соответствии с законодательством Российской Федерации. 2.7. Не допускается поставка Товара, имеющего механические и иные виды повреждений и (или) условия хранения которого были нарушены. 2.8. Поставляемый товар должен быть свободен от прав третьих лиц. 2.9. Все риски гибели, утраты, порчи, хищения, повреждения Товара, вызванные неправильной упаковкой или транспортировкой поставляемого Товара до его приемки Заказчиком, несет Поставщик. 3. Объем и сроки гарантий качества 3.1. Срок гарантии качества на Товар должен быть не менее срока, установленного производителем Товара, определенного в руководстве (инструкции) по эксплуатации Товара. 3.2. Качество поставляемого Товара должно соответствовать установленным в Российской Федерации государственным стандартам или техническим условиям производителей Товара и требованиям настоящего Технического задания. 4. Требования к безопасности товара 4.1. Соответствие Товаров требованиям безопасности подлежит обязательному подтверждению в порядке, предусмотренном законодательством Российской Федерации. Соответствие качества и безопасности Товара должно быть подтверждено следующими документами: сертификатом соответствия и/или декларацией о соответствии (в случае если в отношении данной группы товаров установлено требование об обязательном подтверждении); свидетельством о государственной регистрации (при необходимости); сертификатом (паспортом) качества производителя (изготовителя) Товара. 4.2. Товар должен быть разрешен к применению на территории Российской Федерации. 4.3. Упаковка Товара должна соответствовать нормативной правовой документации на продукцию, на конкретные виды (типы) тары и упаковки, а также обеспечивать сохранность Товара при погрузке, разгрузке, транспортировании и хранении. 4.4. В сопроводительной документации на Товар, на этикетке, маркировкой или иным способом должны быть указаны специальные правила, если для безопасного использования Товара, его хранения, транспортировки и утилизации их необходимо соблюдать. 5. Требования к используемым материалам и оборудованию 5.1. Поставка Товара должна осуществляться в оригинальной заводской упаковке, обеспечивающей его сохранность при хранении, транспортировке и погрузочно-разгрузочных работах. Упаковка товара должна быть без посторонних запахов, механических повреждений и следов воздействия влаги, а также предохранять Товар от порчи во время транспортировки, хранения, погрузочно-разгрузочных работах к месту эксплуатации или складу Заказчика. 5.2. Информация о Товаре, в том числе маркировка на упаковке и на изделии, должна быть указана на русском языке или продублирована на русском языке. 5.3. Тара должна обеспечивать сохранность внешнего вида и качества Товара во время транспортировки и проведения погрузо-разгрузочных работ. 5.4. Маркировка упаковки должна строго соответствовать маркировке Товара. Приложение 1 к Техническому заданию Перечень объектов закупки [TABLE] [ROW] [COL1] №   п/п [COL2] Наименование товара [COL3] Ед. изм. [COL4] Кол-во [/ROW] [ROW] [COL1] 1 [COL2] Хотэнд для Anycubic Cobra [COL3] шт [COL4] 2 [/ROW] [ROW] [COL1] 2 [COL2] Хотэнд для Anycubic Cobra 2 [COL3] шт [COL4] 2 [/ROW] [ROW] [COL1] 3 [COL2] Коричневый PLA пластик Bestfilament для 3D-принтеров 1 кг (1,75 мм) [COL3] шт [COL4] 4 [/ROW] [ROW] [COL1] 4 [COL2] Белый PLA пластик Bestfilament для 3D-принтеров 1 кг (1,75 мм) [COL3] шт [COL4] 10 [/ROW] [ROW] [COL1] 5 [COL2] Черный PLA пластик Bestfilament для 3D-принтеров 1 кг (1,75 мм) [COL3] шт [COL4] 6 [/ROW] [ROW] [COL1] 6 [COL2] Красный PLA пластик Bestfilament для 3D-принтеров 1 кг (1,75 мм) [COL3] шт [COL4] 4 [/ROW] [ROW] [COL1] 7 [COL2] Синий PLA пластик Bestfilament для 3D-принтеров 1 кг (1,75 мм) [COL3] шт [COL4] 3 [/ROW] [ROW] [COL1] 8 [COL2] Оранжевый PLA пластик Bestfilament для 3D-принтеров 1 кг (1,75 мм) [COL3] шт [COL4] 2 [/ROW] [ROW] [COL1] 9 [COL2] Зеленый PLA пластик Bestfilament для 3D-принтеров 1 кг (1,75 мм) [COL3] шт [COL4] 3 [/ROW] [ROW] [COL1] 10 [COL2] Желтый PLA пластик Bestfilament для 3D-принтеров 1 кг (1,75 мм) [COL3] шт [COL4] 2 [/ROW] [ROW] [COL1] 11 [COL2] Голубой  PLA пластик Bestfilament для 3D-принтеров 1 кг (1,75 мм) [COL3] шт [COL4] 4 [/ROW] [ROW] [COL1] 12 [COL2] Фиолетовый PLA пластик Bestfilament для 3D-принтеров 1 кг (1,75 мм) [COL3] шт [COL4] 3 [/ROW] [ROW] [COL1] 13 [COL2] 3D принтер Bambu Lab P1S Combo (AMS) [COL3] шт [COL4] 1 [/ROW] [ROW] [COL1] 14 [COL2] 3D принтер Anycubic Kobra 3 V2 Combo [COL3] шт [COL4] 2 [/ROW] [ROW] [COL1] 15 [COL2] Ресурсный набор Роботрек Валы и шестеренки [COL3] шт [COL4] 1 [/ROW] [ROW] [COL1] 16 [COL2] Набор Yahboom WOM Sensor Kit с платой micro:bit V2 [COL3] шт [COL4] 12 [/ROW] [ROW] [COL1] 17 [COL2] Контейнер Palm с крышкой с замками и ручкой 190х153х98 мм 2 литра [COL3] шт [COL4] 10 [/ROW] [ROW] [COL1] 18 [COL2] Батарейка АА пальчиковая GP (40 штук в упаковке) [COL3] шт [COL4] 1 [/ROW] [/TABLE]"
+  },
+  "predictions": [
+    {
+      "result": [
+        {
+          "value": {
+            "start": 16,
+            "end": 24,
+            "text": "Договору",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "99d8e282-4954-4a69-8a81-18c9017ed4a3",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 42,
+            "end": 48,
+            "text": "2024г.",
+            "labels": [
+              "deadline"
+            ]
+          },
+          "id": "f66d2a87-8bac-43b3-9fa0-84fa96b22f75",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 49,
+            "end": 68,
+            "text": "ТЕХНИЧЕСКОЕ ЗАДАНИЕ",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "c4ee3413-b7a6-4df9-b583-7e6cc7f8376f",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 92,
+            "end": 107,
+            "text": "объекте закупки",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "c2720199-f420-4d14-b1bb-d25460b5d1de",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 113,
+            "end": 127,
+            "text": "Объект закупки",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "efba76c0-0195-40e0-a6a7-159e5d72aebe",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 129,
+            "end": 182,
+            "text": "Поставка товаров для робототехники и 3D моделирования",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "22e60112-749b-4f9f-be94-baaa31dfa3d8",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 186,
+            "end": 207,
+            "text": "2025-2026 учебный год",
+            "labels": [
+              "deadline"
+            ]
+          },
+          "id": "a1ad1044-4ceb-410f-8a61-f8fedae50d44",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 218,
+            "end": 241,
+            "text": "техническим требованиям",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "2853fbe2-b6a0-4b1b-bdeb-463174875596",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 664,
+            "end": 673,
+            "text": "Поставщик",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "528fa7aa-f17b-488e-906c-5d5fcde4b6a9",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 323,
+            "end": 337,
+            "text": "Место поставки",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "71f9a795-4c56-49fa-87d8-3805bcfa5688",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 83,
+            "end": 84,
+            "text": "м",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "783c5953-6c6c-4699-bcb3-22eda46d06fd",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 255,
+            "end": 268,
+            "text": "Приложении №1",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "aea39b8b-2613-425b-a5ac-70a37f820b29",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 280,
+            "end": 300,
+            "text": "Технического задания",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "72f0c942-217e-42fe-b6da-df66942b6ba6",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 310,
+            "end": 315,
+            "text": "Товар",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "6969959f-383f-4918-a00c-10f706a71368",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 323,
+            "end": 344,
+            "text": "Место поставки товара",
+            "labels": [
+              "action"
+            ]
+          },
+          "id": "1f493fbd-7c0d-41a8-bb7d-a7ecf6f71bc3",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 346,
+            "end": 368,
+            "text": "143082, Московская обл",
+            "labels": [
+              "address"
+            ]
+          },
+          "id": "46d7807d-2b1f-4dd1-9518-b493ed1a6e4b",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 360,
+            "end": 428,
+            "text": "ская область, город Одинцово, деревня Раздоры, улица Утренняя, дом 1",
+            "labels": [
+              "address"
+            ]
+          },
+          "id": "691014f5-c23e-4472-8cbf-4e393194f192",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 435,
+            "end": 452,
+            "text": "Количество товара",
+            "labels": [
+              "action"
+            ]
+          },
+          "id": "70a8487e-455a-4491-850f-d48b9fd8171d",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 463,
+            "end": 475,
+            "text": "Приложению 1",
+            "labels": [
+              "val"
+            ]
+          },
+          "id": "1b631513-31d3-4bc5-b611-dd18e39e1168",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 482,
+            "end": 488,
+            "text": "Срок п",
+            "labels": [
+              "deadline"
+            ]
+          },
+          "id": "203356bb-8518-4c8b-85ae-a171b5b1be12",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 482,
+            "end": 502,
+            "text": "Срок поставки товара",
+            "labels": [
+              "action"
+            ]
+          },
+          "id": "66633c1e-3a1e-47ce-9771-3b0c1768fbb8",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 515,
+            "end": 525,
+            "text": "30.07.2025",
+            "labels": [
+              "deadline"
+            ]
+          },
+          "id": "479ea4ac-eae3-4f94-854f-9e7080813010",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 532,
+            "end": 565,
+            "text": "Приложения к техническому заданию",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "0b2b2e81-77d3-4b7a-9d79-f1ef43e8ecfd",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 0,
+            "end": 13,
+            "text": "Приложение №1",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "8975dd34-9b76-4035-a257-417e7fc150b1",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 591,
+            "end": 608,
+            "text": "Перечень объектов",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "93624ff1-1f9e-4396-955c-e7b252e027df",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 600,
+            "end": 616,
+            "text": "объектов закупки",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "06351583-e45a-4e34-bd93-0c38df54c745",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 622,
+            "end": 638,
+            "text": "Стандарт товаров",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "1818116b-325d-40da-9e8e-e7cef2b26fb4",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 664,
+            "end": 675,
+            "text": "Поставщиком",
+            "labels": [
+              "supplier"
+            ]
+          },
+          "id": "504865b3-ca9f-46f5-a298-a4869d397ed7",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 676,
+            "end": 685,
+            "text": "Заказчику",
+            "labels": [
+              "client"
+            ]
+          },
+          "id": "b613668b-4ce0-40cb-9950-84e0e20181b2",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 805,
+            "end": 825,
+            "text": "Российской Федерации",
+            "labels": [
+              "supplier"
+            ]
+          },
+          "id": "29998f87-2222-4be1-b4b8-beb44d8c3230",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 839,
+            "end": 851,
+            "text": "безопасности",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "e4c3a667-b9bf-405d-9ff6-77b487eab478",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 853,
+            "end": 867,
+            "text": "функциональным",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "813ed6a5-74d5-46e7-bd89-7b158613f427",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 870,
+            "end": 898,
+            "text": "качественным характеристикам",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "e1a85d07-513e-4cc2-bd9f-c21882f0cb9e",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 138,
+            "end": 145,
+            "text": "товаров",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "9acda8fa-2bec-4266-b055-e8e44a1cf767",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 926,
+            "end": 940,
+            "text": "функциональным",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "d7dfea8c-65e5-441e-9a37-f7584d7c8a2e",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 218,
+            "end": 229,
+            "text": "техническим",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "d5944922-8d38-4630-bbec-9e8800564493",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 955,
+            "end": 967,
+            "text": "качественным",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "ad8e56a5-df4e-4cb3-ae0f-d43aed88efac",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 883,
+            "end": 898,
+            "text": "характеристикам",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "b731758d-f57b-4165-8237-629baacca2b9",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1016,
+            "end": 1057,
+            "text": "Приложении №1 «Перечень объектов закупки»",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "e29f8d3c-ad16-4d96-936f-9ac5bc8343b9",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 676,
+            "end": 679,
+            "text": "Зак",
+            "labels": [
+              "client"
+            ]
+          },
+          "id": "1172e68d-2539-4a8a-ba6f-eed0d2bb21c4",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1080,
+            "end": 1095,
+            "text": "ия с Заказчиком",
+            "labels": [
+              "client"
+            ]
+          },
+          "id": "48b014a0-7a8b-4191-9bda-89c03e785904",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 664,
+            "end": 673,
+            "text": "Поставщик",
+            "labels": [
+              "supplier"
+            ]
+          },
+          "id": "78bca93c-8206-4e6b-a054-646d319ef3a7",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1123,
+            "end": 1146,
+            "text": "1 (одного) рабочего дня",
+            "labels": [
+              "deadline"
+            ]
+          },
+          "id": "a40bd1bc-33a9-4054-8a9b-172aa04cc263",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1165,
+            "end": 1173,
+            "text": "Договора",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "8466d39f-22d4-4840-9a15-3901a00ffe80",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1174,
+            "end": 1208,
+            "text": "назначить ответственное контактное",
+            "labels": [
+              "action"
+            ]
+          },
+          "id": "ea2b4f2d-56a9-4f75-b962-5470f7d51319",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1224,
+            "end": 1247,
+            "text": "адрес электронной почты",
+            "labels": [
+              "address"
+            ]
+          },
+          "id": "dd66dd42-19b9-409c-a97c-df20e20df98a",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1306,
+            "end": 1320,
+            "text": "номер телефона",
+            "labels": [
+              "address"
+            ]
+          },
+          "id": "e72b9c45-6836-4963-809a-7f2c501685a4",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1341,
+            "end": 1350,
+            "text": "Заказчика",
+            "labels": [
+              "client"
+            ]
+          },
+          "id": "39bf9781-a03f-4d27-a779-feace36c1e61",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1365,
+            "end": 1386,
+            "text": "контактной информации",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "2a67c27d-2f95-4a2b-b022-74ed58b7a3b5",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1387,
+            "end": 1406,
+            "text": "ответственного лица",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "17dd519d-1e4d-4519-9047-4e13064d0cc3",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 12,
+            "end": 13,
+            "text": "1",
+            "labels": [
+              "amount"
+            ]
+          },
+          "id": "35dd5c85-3686-47ef-8fe6-6b0b29c0a383",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1143,
+            "end": 1146,
+            "text": "дня",
+            "labels": [
+              "deadline"
+            ]
+          },
+          "id": "31930207-238a-4b4a-b4f6-9742309163c2",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1321,
+            "end": 1340,
+            "text": "и уведомить об этом",
+            "labels": [
+              "action"
+            ]
+          },
+          "id": "a09ba28a-4144-4462-aead-0e783372f5df",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1123,
+            "end": 1133,
+            "text": "1 (одного)",
+            "labels": [
+              "amount"
+            ]
+          },
+          "id": "38c3bb80-d9c0-4987-819a-49a96d66cab8",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1134,
+            "end": 1146,
+            "text": "рабочего дня",
+            "labels": [
+              "deadline"
+            ]
+          },
+          "id": "2deccac2-99dc-4c75-a0b7-d6c8658c0113",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1511,
+            "end": 1534,
+            "text": "Письма, запросы, заявки",
+            "labels": [
+              "action"
+            ]
+          },
+          "id": "6fb4a7c0-0e54-4931-a735-83e0a4fe133d",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1085,
+            "end": 1095,
+            "text": "Заказчиком",
+            "labels": [
+              "client"
+            ]
+          },
+          "id": "d823b390-1a82-429d-a96f-c2e76d90da54",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1681,
+            "end": 1711,
+            "text": "контактными данными Поставщика",
+            "labels": [
+              "supplier"
+            ]
+          },
+          "id": "3b64386d-26ce-4f3a-9091-5054de7260a6",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1719,
+            "end": 1734,
+            "text": "Поставка товара",
+            "labels": [
+              "action"
+            ]
+          },
+          "id": "9c5b6e60-f699-40e1-95e0-15f7615632f2",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1771,
+            "end": 1776,
+            "text": "сроки",
+            "labels": [
+              "deadline"
+            ]
+          },
+          "id": "60fd8cca-519e-465b-9ea4-6dd4bf884d8b",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1804,
+            "end": 1823,
+            "text": "Техническом задании",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "0804b808-5271-4779-806e-c1e2964f2bff",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1828,
+            "end": 1835,
+            "text": "перечню",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "9f6a398e-f80b-4f83-b6e9-157ac21f7f5e",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1837,
+            "end": 1844,
+            "text": "адресам",
+            "labels": [
+              "address"
+            ]
+          },
+          "id": "49c722fa-4274-4bf5-8b4f-3cc06b5f5c9e",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1846,
+            "end": 1858,
+            "text": "ассортименте",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "0b47e27c-2386-4019-a13f-b07f8d585066",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1863,
+            "end": 1879,
+            "text": "характеристиками",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "5f16a69b-6311-40ab-a3e4-df4db5125f21",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1889,
+            "end": 1928,
+            "text": "Приложению №1 «Перечень объектов закупк",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "6cd4eff9-534b-4d49-ab46-b9e00249aac8",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 100,
+            "end": 107,
+            "text": "закупки",
+            "labels": [
+              "action"
+            ]
+          },
+          "id": "c25e6d70-fe8c-47d4-aa26-dee56c0d9ac7",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1944,
+            "end": 1964,
+            "text": "Техническому заданию",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "32f3074a-1d74-480d-8c97-36f2e938eac1",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2017,
+            "end": 2036,
+            "text": "московскому времени",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "c0c3e1fa-ded0-4d7d-92c9-38464825535d",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 129,
+            "end": 134,
+            "text": "Поста",
+            "labels": [
+              "action"
+            ]
+          },
+          "id": "01aa9c41-c656-47bc-ae15-15458e6b8691",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 189,
+            "end": 190,
+            "text": "5",
+            "labels": [
+              "amount"
+            ]
+          },
+          "id": "b261be7b-bd3d-44fd-950a-84ddc0c01a08",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2087,
+            "end": 2125,
+            "text": "пропускным и внутриобъектовым режимами",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "1f9c0fcd-73d3-4fc2-9885-2170c34dd059",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2145,
+            "end": 2167,
+            "text": "адресу поставки Товара",
+            "labels": [
+              "address"
+            ]
+          },
+          "id": "38581f72-a145-48f3-8941-b7a143695b53",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2161,
+            "end": 2167,
+            "text": "Товара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "0697340e-1705-4a32-89ff-de4aa4ccc6e7",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2273,
+            "end": 2279,
+            "text": "Товара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "3365de7c-8c2c-4edd-b74b-fdb68c7345a4",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2331,
+            "end": 2337,
+            "text": "Товара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "4d40ab79-a498-42a3-987c-3bb710cc492c",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1548,
+            "end": 1558,
+            "text": "Заказчиком",
+            "labels": [
+              "client"
+            ]
+          },
+          "id": "91a9c288-b7fd-4ff5-8450-089df62c7bec",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2399,
+            "end": 2405,
+            "text": "Товара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "95546471-5f4b-4c1e-93ca-6772c1902465",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2576,
+            "end": 2582,
+            "text": "Товара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "4aa97b10-5a71-441a-ac10-e88aa3214959",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2763,
+            "end": 2769,
+            "text": "Товара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "5cbeaa24-8d3e-4e29-ac55-2cd683ec6ea5",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2811,
+            "end": 2817,
+            "text": "Товара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "e3dd7efe-32fb-4a7e-8265-de4699b53fa2",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2195,
+            "end": 2205,
+            "text": "Заказчиком",
+            "labels": [
+              "client"
+            ]
+          },
+          "id": "936bdf17-4be3-4e74-82df-d5691e51d569",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2917,
+            "end": 2923,
+            "text": "Товара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "4f285c9b-97cd-4b50-a8b0-26090a363d14",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3145,
+            "end": 3151,
+            "text": "Товара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "78d14e3c-c58b-436c-9298-7d586c69c809",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3221,
+            "end": 3227,
+            "text": "Товара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "cefbd21d-268b-4e75-a69e-e1ef5a38be70",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3243,
+            "end": 3253,
+            "text": "Заказчиком",
+            "labels": [
+              "client"
+            ]
+          },
+          "id": "c9215447-2f0f-429d-bcb7-4e175d11d860",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3402,
+            "end": 3408,
+            "text": "Товара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "b990479f-a8e0-4125-a1b4-f458ce04caf7",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3467,
+            "end": 3473,
+            "text": "Товара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "9161bf82-ab4b-4369-bbfb-5551e1a266e6",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3503,
+            "end": 3509,
+            "text": "Товара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "7682c2f9-b7a8-4905-9c66-73ca89ac8d3b",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3637,
+            "end": 3643,
+            "text": "Товара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "efcc3c4f-852d-4eeb-9c5f-7c6242ffb8a9",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3919,
+            "end": 3925,
+            "text": "Товара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "4fbc7797-ad6e-48b1-8a47-5313bff0bb95",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1981,
+            "end": 1990,
+            "text": "Заказчика",
+            "labels": [
+              "client"
+            ]
+          },
+          "id": "9b49047a-557c-43cb-a412-e3407957806f",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2310,
+            "end": 2337,
+            "text": "Акт приемки-передачи Товара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "4ae28dc0-3240-429f-9b1f-2cde9f8df643",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2377,
+            "end": 2405,
+            "text": "Акту приемки-передачи Товара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "956a4ff9-beb5-4552-a70b-5e2280b0e837",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 339,
+            "end": 344,
+            "text": "овара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "5066d973-7b78-48cc-9122-36f80d3b0232",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2436,
+            "end": 2455,
+            "text": "отчетных документов",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "12567856-61db-443f-ab35-8cd689056a24",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2459,
+            "end": 2472,
+            "text": "русском языке",
+            "labels": [
+              "val"
+            ]
+          },
+          "id": "6dc9fac0-ccb3-40a8-a3ea-de6839b7ca64",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2523,
+            "end": 2528,
+            "text": "серти",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "942ab403-70df-459e-81ef-26c85ea8f98a",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2520,
+            "end": 2582,
+            "text": "ов сертификаты соответствия (декларации о соответствии) Товара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "94adb9f8-4bcc-4cac-a314-17a376095d73",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2584,
+            "end": 2604,
+            "text": "оригиналы документов",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "b0bd9f8b-7c16-443c-8e4f-f1ba127045af",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2620,
+            "end": 2626,
+            "text": "Товару",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "bceac3a2-d000-4d0e-b6e7-3a942b28f853",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2628,
+            "end": 2635,
+            "text": "паспорт",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "026f35a1-868f-46fe-9148-fee774528f74",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2637,
+            "end": 2647,
+            "text": "инструкция",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "9c4a739c-17ea-4abc-93de-a8a45698af42",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2710,
+            "end": 2735,
+            "text": "гарантийные обязательства",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "ef77f2e5-3908-48bd-b05e-cffdddb184c7",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 1701,
+            "end": 1711,
+            "text": "Поставщика",
+            "labels": [
+              "supplier"
+            ]
+          },
+          "id": "1c78e1e2-d14a-4e63-bdda-e4870e8f0f2a",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2802,
+            "end": 2817,
+            "text": "качество Товара",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "e89f0c04-2358-4933-9ef2-97ce890ce6f0",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 805,
+            "end": 825,
+            "text": "Российской Федерации",
+            "labels": [
+              "address"
+            ]
+          },
+          "id": "071f8b78-e25b-47c4-bda2-b0ddff5b1412",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2934,
+            "end": 2970,
+            "text": "механические и иные виды повреждений",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "fb4efe5c-84e8-4a7e-a448-40b002239d29",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2979,
+            "end": 2995,
+            "text": "условия хранения",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "14eac0fe-4638-447e-808b-e32b054a9e7d",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3025,
+            "end": 3043,
+            "text": "Поставляемый товар",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "0cb06e85-b4d3-4469-81c3-0fa741efe83f",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3056,
+            "end": 3084,
+            "text": "свободен от прав третьих лиц",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "b0c2286f-3456-4cd1-87d7-f7e624b135c9",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3101,
+            "end": 3107,
+            "text": "гибели",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "1ec5b9f9-38be-47f0-a814-6c0c65e776c2",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3109,
+            "end": 3115,
+            "text": "утраты",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "ca6fc2a6-5cc2-449a-bd61-a9010fd36f40",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3117,
+            "end": 3122,
+            "text": "порчи",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "f5bc4f9d-5c49-49b7-b71f-945813dd561d",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3124,
+            "end": 3131,
+            "text": "хищения",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "c64040e9-3611-4c1a-8f3d-00016d329b85",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3120,
+            "end": 3151,
+            "text": "чи, хищения, повреждения Товара",
+            "labels": [
+              "action"
+            ]
+          },
+          "id": "92091843-d03c-4b16-875f-5265fc2787e6",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3207,
+            "end": 3227,
+            "text": "поставляемого Товара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "83c7fd91-919f-4fb4-a1d2-38183bad9c5c",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 676,
+            "end": 681,
+            "text": "Заказ",
+            "labels": [
+              "action"
+            ]
+          },
+          "id": "59e83df1-793e-4fff-8f55-ffab559ddac6",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3289,
+            "end": 3306,
+            "text": "гарантий качества",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "69bf3651-2426-41cb-9075-18578ee86d3f",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3317,
+            "end": 3334,
+            "text": "гарантии качества",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "1c3f7373-55e9-4290-87dc-e7a7ff817055",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3360,
+            "end": 3473,
+            "text": "енее срока, установленного производителем Товара, определенного в руководстве (инструкции) по эксплуатации Товара",
+            "labels": [
+              "deadline"
+            ]
+          },
+          "id": "5a8a7c07-4132-451d-8bb0-aefbcb68d550",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3475,
+            "end": 3488,
+            "text": "3.2. Качество",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "2ad65c13-5017-46bc-a113-08a68dafb59d",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3480,
+            "end": 3488,
+            "text": "Качество",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "6ad0d4d4-ad54-489a-b964-76843d546eb7",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3570,
+            "end": 3608,
+            "text": "государственным стандартам или техниче",
+            "labels": [
+              "val"
+            ]
+          },
+          "id": "e5cf4987-d175-40f9-a607-a7bdefbbf2b5",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3601,
+            "end": 3643,
+            "text": "техническим условиям производителей Товара",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "c62be2ef-a8b9-416a-8e39-0d23096b8d13",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3646,
+            "end": 3689,
+            "text": "требованиям настоящего Технического задания",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "82d8c422-8966-4275-86d8-9af1385d4e6c",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3694,
+            "end": 3726,
+            "text": "Требования к безопасности товара",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "bd443f19-a448-4970-af60-1b6a214f20d8",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 338,
+            "end": 344,
+            "text": "товара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "944698af-626c-4ca7-8d0e-dc184d0bfba2",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3745,
+            "end": 3752,
+            "text": "Товаров",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "31d1e37b-0695-4d0e-a1fd-c2959c56d77e",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 827,
+            "end": 851,
+            "text": "требованиям безопасности",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "b31d8dcc-e0b7-4a44-8d7b-b3153f6a374b",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3298,
+            "end": 3306,
+            "text": "качества",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "e3f88442-f110-439d-9035-f9224ea13660",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 3975,
+            "end": 4000,
+            "text": "сертификатом соответствия",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "0b18291a-947d-419e-ab81-ee4f683df694",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 4007,
+            "end": 4033,
+            "text": "декларацией о соответствии",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "7a9834f3-56af-43d7-beb2-4fd9b59553c3",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 4138,
+            "end": 4182,
+            "text": "свидетельством о государственной регистрации",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "19a66549-4d1d-408b-93cf-43ca6ffa1666",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2523,
+            "end": 2527,
+            "text": "серт",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "1f61b862-0a16-4112-8b00-0b14523f3cd5",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 4204,
+            "end": 4273,
+            "text": "сертификатом (паспортом) качества производителя (изготовителя) Товара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "750a33ae-f13a-4732-8a82-899ca2dd6dfb",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 4400,
+            "end": 4433,
+            "text": "нормативной правовой документации",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "6c6b7b97-88f3-4043-82a3-f01fbf27a673",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 4437,
+            "end": 4446,
+            "text": "продукцию",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "39dc1bb6-a03d-49b9-aa62-03b9298f9cf4",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 4474,
+            "end": 4489,
+            "text": "тары и упаковки",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "a5960d17-9402-4c73-a1e1-5cf1cbd65a79",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2987,
+            "end": 2995,
+            "text": "хранения",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "8922e099-ba0a-4e64-935f-a17b8344d615",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 4774,
+            "end": 4789,
+            "text": "транспортировки",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "acb01894-b34e-41d2-9443-abb39a4f967b",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 4792,
+            "end": 4802,
+            "text": "утилизации",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "c6df2dd1-ff09-4a81-9da9-b4b3b127a1b2",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 4857,
+            "end": 4882,
+            "text": "материалам и оборудованию",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "0f65b409-5f8f-4850-b87a-dd5a28b9854b",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 4928,
+            "end": 4959,
+            "text": "оригинальной заводской упаковке",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "cf3c0f11-9e10-4316-bd4c-b131cbdda5f1",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 4512,
+            "end": 4523,
+            "text": "сохранность",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "3799833a-1169-4df0-bb36-e0ff6dd01404",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 4576,
+            "end": 4584,
+            "text": "хранении",
+            "labels": [
+              "action"
+            ]
+          },
+          "id": "78c7102e-898c-4031-8018-17ff52cd8d2f",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5006,
+            "end": 5021,
+            "text": "транспортировке",
+            "labels": [
+              "action"
+            ]
+          },
+          "id": "afe88722-c13d-4443-a04d-8a33e58a92dc",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5024,
+            "end": 5047,
+            "text": "погрузочно-разгрузочных",
+            "labels": [
+              "action"
+            ]
+          },
+          "id": "6965114f-a7b7-411b-be40-5303d9fcdcdd",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5057,
+            "end": 5072,
+            "text": "Упаковка товара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "c59bce96-c44a-4183-b205-8a8c6b357355",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5089,
+            "end": 5108,
+            "text": "посторонних запахов",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "3adaada3-5ed6-4148-8a04-26242fe46198",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5110,
+            "end": 5134,
+            "text": "механических повреждений",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "14635be4-1f0d-49d7-ab88-9897f0713f24",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5137,
+            "end": 5161,
+            "text": "следов воздействия влаги",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "0418df14-e139-40c1-96ab-6369936c5a3c",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5269,
+            "end": 5287,
+            "text": "месту эксплуатации",
+            "labels": [
+              "address"
+            ]
+          },
+          "id": "45b4425d-8e5f-4c34-9484-cea5e5be4e9a",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5315,
+            "end": 5334,
+            "text": "Информация о Товаре",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "ec8687c3-5b19-48d7-88a2-b9650b729b3b",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5348,
+            "end": 5358,
+            "text": "маркировка",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "a4efc5a9-2d24-47b6-8fbf-33f236a99a89",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5400,
+            "end": 5404,
+            "text": "зана",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "51eb593e-5ed4-4e0f-81bb-11a837824d5a",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 2459,
+            "end": 2472,
+            "text": "русском языке",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "c4392ae2-739a-472e-b04b-f7acee2087c0",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5408,
+            "end": 5421,
+            "text": "русском языке",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "86f0e1a7-5681-41b3-a375-a6eefa8c78a5",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5464,
+            "end": 5468,
+            "text": "Тара",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "d6412c09-e46c-4fcc-b667-2832b14351d8",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5501,
+            "end": 5514,
+            "text": "внешнего вида",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "e49ca52f-2b04-47e7-9a21-7c2db62009c9",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 310,
+            "end": 312,
+            "text": "То",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "39e9762e-8b50-43f4-8982-0d712df93f45",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5604,
+            "end": 5623,
+            "text": "Маркировка упаковки",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "e585512a-3044-4f0f-9452-9a9cf7f244e1",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5654,
+            "end": 5664,
+            "text": "маркировке",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "399f331d-63b2-4e73-b32d-3292ce485b3f",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5673,
+            "end": 5685,
+            "text": "Приложение 1",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "592b1dac-b5af-4274-9a66-e62c82d0e75d",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5765,
+            "end": 5769,
+            "text": "COL2",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "06bf9ad4-58d3-448a-84b1-10b1912ced1d",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5792,
+            "end": 5796,
+            "text": "COL3",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "42135326-1945-4295-bdcf-c23308c8cada",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5808,
+            "end": 5812,
+            "text": "COL4",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "7f9cd957-0037-43da-8bb4-1a46bc298e11",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5822,
+            "end": 5839,
+            "text": "/ROW] [ROW] [COL1",
+            "labels": [
+              "amount"
+            ]
+          },
+          "id": "511b02d6-959c-47d3-b787-2bd690803fbb",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5844,
+            "end": 5848,
+            "text": "COL2",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "d35fe19f-37ac-44e9-a1a3-1203a54e1dd1",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5877,
+            "end": 5881,
+            "text": "COL3",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "1d095043-096f-47b6-956c-3e3d192bb05f",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6000,
+            "end": 6067,
+            "text": "Коричневый PLA пластик Bestfilament для 3D-принтеров 1 кг (1,75 мм)",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "57bbf39b-93ee-41ec-838d-2643c3656003",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6164,
+            "end": 6168,
+            "text": "1 кг",
+            "labels": [
+              "amount"
+            ]
+          },
+          "id": "dd42cb51-e762-417f-a859-916a132047a2",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6170,
+            "end": 6177,
+            "text": "1,75 мм",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "c3c6a634-d96c-4f30-85fc-6277ea7ed600",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 45,
+            "end": 46,
+            "text": "4",
+            "labels": [
+              "amount"
+            ]
+          },
+          "id": "b7960c49-5417-43b0-942c-c5acd090f179",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6116,
+            "end": 6128,
+            "text": "Белый PLA пл",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "0e5eac4d-71b9-406e-90a7-d3cb55230148",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6011,
+            "end": 6035,
+            "text": "PLA пластик Bestfilament",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "1563f517-e0ee-48f7-a96d-f92206a8ba70",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6040,
+            "end": 6052,
+            "text": "3D-принтеров",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "c54d8077-d345-4136-8a15-4c54fd2ca691",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6053,
+            "end": 6057,
+            "text": "1 кг",
+            "labels": [
+              "amount"
+            ]
+          },
+          "id": "3c6d7ec4-d919-44f5-8b74-610f425aea26",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6059,
+            "end": 6066,
+            "text": "1,75 мм",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "be76b764-8368-49a0-8fe8-1e021d5094a6",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6196,
+            "end": 6198,
+            "text": "10",
+            "labels": [
+              "amount"
+            ]
+          },
+          "id": "8771531c-914b-4586-a77b-9dbaa5c8a708",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6228,
+            "end": 6248,
+            "text": "Черный PLA пластик B",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "53ab6df2-3287-4e6b-870a-dea4b2ef85bc",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6016,
+            "end": 6052,
+            "text": "ластик Bestfilament для 3D-принтеров",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "278be1a1-fa94-47d2-a94c-d6bc5f9a4296",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5792,
+            "end": 5796,
+            "text": "COL3",
+            "labels": [
+              "val"
+            ]
+          },
+          "id": "0ebeb469-ba41-4856-a9fe-796ee36522c1",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5808,
+            "end": 5812,
+            "text": "COL4",
+            "labels": [
+              "val"
+            ]
+          },
+          "id": "6dd405bc-d509-4623-aaed-835fdf2dbf18",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 194,
+            "end": 195,
+            "text": "6",
+            "labels": [
+              "amount"
+            ]
+          },
+          "id": "73293fdc-ea03-49a6-a51b-f94ac45f9c3c",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6023,
+            "end": 6035,
+            "text": "Bestfilament",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "6a6af1e4-3782-4ed3-8725-5249d33c6a21",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5792,
+            "end": 5796,
+            "text": "COL3",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "1a4c7cc9-a8d2-4da0-a7ae-e46bde039fdc",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5808,
+            "end": 5812,
+            "text": "COL4",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "a5c9ad62-0983-4389-b52b-d77ebbaa743e",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5822,
+            "end": 5839,
+            "text": "/ROW] [ROW] [COL1",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "f99d8a04-1b72-4c1e-a67d-4e2e9f1a2b09",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 519,
+            "end": 520,
+            "text": "7",
+            "labels": [
+              "amount"
+            ]
+          },
+          "id": "400bf9a7-8efa-428f-a895-8f24dac33744",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5765,
+            "end": 5769,
+            "text": "COL2",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "b1afd7c9-56cc-4acc-bd5e-b6535b7dbfb3",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6453,
+            "end": 6458,
+            "text": "Синий",
+            "labels": [
+              "val"
+            ]
+          },
+          "id": "ea20acea-9a23-4c59-830b-74d99cf7a37e",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6011,
+            "end": 6022,
+            "text": "PLA пластик",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "41e72d82-2b8a-47bb-afba-f24faf19c696",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6134,
+            "end": 6146,
+            "text": "Bestfilament",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "471aa8bf-da63-46c0-9f95-1ec6c37f55cd",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6032,
+            "end": 6067,
+            "text": "ent для 3D-принтеров 1 кг (1,75 мм)",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "bbe6778f-5b97-47a1-a021-db9b7f694d39",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6037,
+            "end": 6052,
+            "text": "ля 3D-принтеров",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "35e2b5fd-2b7f-439d-a04b-04313d0549a6",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6053,
+            "end": 6067,
+            "text": "1 кг (1,75 мм)",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "7b39ea47-44ba-49bb-9113-447470b97a30",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5876,
+            "end": 5885,
+            "text": "[COL3] шт",
+            "labels": [
+              "amount"
+            ]
+          },
+          "id": "02bc9c32-4111-413a-882e-ebdb533ed086",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5886,
+            "end": 5894,
+            "text": "[COL4] 2",
+            "labels": [
+              "amount"
+            ]
+          },
+          "id": "b7e0e69c-ebe7-431d-a3ea-ba88b50f9075",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6672,
+            "end": 6711,
+            "text": "[COL2] Зеленый PLA пластик Bestfilament",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "4ca7c545-9617-4758-87e3-13e0b7480dc7",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6151,
+            "end": 6163,
+            "text": "3D-принтеров",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "31c81ff7-0149-47a4-bb9e-be637b12db38",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6044,
+            "end": 6067,
+            "text": "ринтеров 1 кг (1,75 мм)",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "2b669fd9-7e28-4f5c-a6be-d39785a7a144",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5883,
+            "end": 5885,
+            "text": "шт",
+            "labels": [
+              "amount"
+            ]
+          },
+          "id": "152de313-ae92-4326-98a1-46c4e7b6d4e1",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 166,
+            "end": 167,
+            "text": "3",
+            "labels": [
+              "amount"
+            ]
+          },
+          "id": "0c9d1a0d-8b43-439a-ac35-9dc80a7540f9",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6793,
+            "end": 6846,
+            "text": "Желтый PLA пластик Bestfilament для 3D-принтеров 1 кг",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "a1fbb44e-94be-4067-a145-3e65ea66be3a",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6170,
+            "end": 6174,
+            "text": "1,75",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "f993e599-623c-4208-bea0-be2ab8145fe9",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6056,
+            "end": 6067,
+            "text": "г (1,75 мм)",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "3b64b45f-c105-4163-bf7a-12c263d8a76d",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 45,
+            "end": 46,
+            "text": "4",
+            "labels": [
+              "val"
+            ]
+          },
+          "id": "1899af7c-47d8-49cc-a8a8-7a8f41d48868",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 7011,
+            "end": 7013,
+            "text": "12",
+            "labels": [
+              "amount"
+            ]
+          },
+          "id": "efb44bef-ab3e-47ff-a21f-a4ee7c5be664",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 7021,
+            "end": 7088,
+            "text": "Фиолетовый PLA пластик Bestfilament для 3D-принтеров 1 кг (1,75 мм)",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "f3396c81-8325-4af5-8b8d-096997d93eb4",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 6059,
+            "end": 6066,
+            "text": "1,75 мм",
+            "labels": [
+              "val"
+            ]
+          },
+          "id": "56a03f6b-0399-4185-ab9c-ce908fbdfee9",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 7128,
+            "end": 7130,
+            "text": "13",
+            "labels": [
+              "amount"
+            ]
+          },
+          "id": "993408ae-b0ac-4713-a966-47dfa39a3eea",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 7138,
+            "end": 7174,
+            "text": "3D принтер Bambu Lab P1S Combo (AMS)",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "fbf84698-ad4a-4e6c-bbf0-ac3bea3f9f53",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5959,
+            "end": 5961,
+            "text": "шт",
+            "labels": [
+              "amount"
+            ]
+          },
+          "id": "773d6746-e2a6-4631-bc3b-ac57959117c3",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 7320,
+            "end": 7352,
+            "text": "набор Роботрек Валы и шестеренки",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "088e5184-9ae1-4a7b-ab70-77a67564104a",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 7402,
+            "end": 7448,
+            "text": "Набор Yahboom WOM Sensor Kit с платой micro:bi",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "cc5128bb-eb6d-4334-825c-80587583588a",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 7440,
+            "end": 7452,
+            "text": "micro:bit V2",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "2ab1deec-e579-4181-b7ea-33ceef86d2be",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5792,
+            "end": 5796,
+            "text": "COL3",
+            "labels": [
+              "amount"
+            ]
+          },
+          "id": "10352076-64e7-4ce3-9fd7-50509fde8625",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 5822,
+            "end": 5839,
+            "text": "/ROW] [ROW] [COL1",
+            "labels": [
+              "property"
+            ]
+          },
+          "id": "fd16a864-737e-4e0a-9394-dc68561e85db",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        },
+        {
+          "value": {
+            "start": 7503,
+            "end": 7568,
+            "text": "Контейнер Palm с крышкой с замками и ручкой 190х153х98 мм 2 литра",
+            "labels": [
+              "product"
+            ]
+          },
+          "id": "5a56aaad-952b-4e48-8fb8-636ded0e76f2",
+          "from_name": "ner",
+          "to_name": "text",
+          "type": "labels",
+          "origin": "model"
+        }
+      ]
+    }
+  ]
+}
